@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robot & Sensor Code Tutor"
+  short_description: "通过真实机器人与传感器项目循序学习代码、工程实现、数学和算法"
+  default_prompt: "Use $sensor-code-tutor to map this robotics project and guide me through its code one lesson at a time."
